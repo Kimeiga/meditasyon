@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="118.5339mm"
+   height="118.57313mm"
+   viewBox="0 0 420.00201 420.141"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Msvg3.svg">
+
+
+   <defs>
+     <style>
+       #Msvg3 {
+        stroke-dasharray:1500,1500;
+        stroke-dashoffset:0;
+        -webkit-animation: dash 5s linear forwards;
+        -o-animation: dash 2s linear forwards;
+        -moz-animation: dash 2s linear forwards;
+
+       }
+
+       @-webkit-keyframes dash{
+        from{
+          stroke-dashoffset:1500;
+        }
+        to{
+          stroke-dashoffset:0;
+        }
+       }
+     </style>
+
+   </defs>
+
+
+
+
+
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-489.999,57.636476)"
+     style="stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none">
+    <path
+
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1500, 1500;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 500,352.36211 0,-400 200,200 200.00001,-200 0,400"
+       id="Msvg3"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
